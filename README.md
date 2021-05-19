@@ -1,4 +1,4 @@
-#English
+##English
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@ I'm a telecommunications engineering student who is passionate about learning ne
 - 👯 I’m looking for a job opportunity where I can contribute with my knowledge and continue training.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jhon-fredy-mercado-agudelo-377524209) [Gmail](mailto:fredydo@hotmail.com).
 
-#Español
+##Español
 
 ### Hola 👋
 
